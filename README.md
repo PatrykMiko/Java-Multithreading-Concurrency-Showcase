@@ -1,5 +1,7 @@
 # Java Multithreading & Concurrency Showcase
 
+![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Concurrency](https://img.shields.io/badge/Multithreading-Concurrent-E34F26?style=for-the-badge)
+
 This project explores the power of **Java Multithreading** through two practical, real-world examples: rendering an animated GUI application and performing highly efficient concurrent network I/O operations.
 
 ## 🚀 Key Modules
